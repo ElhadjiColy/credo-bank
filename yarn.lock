@@ -246,6 +246,11 @@
   dependencies:
     tslib "^2.0.0"
 
+"@angularclass/hmr@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@angularclass/hmr/-/hmr-3.0.0.tgz#6d0c31a237a46af99085de65082a97975575eda5"
+  integrity sha512-4A/DKmSafWUcffv7f536oY6RbpXEAD7f0NCGVLlRj9Gna8dkGc9JOHSr3NCWHd/NRc4ey8x+V0itsBqlPxEJ/A==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.16.7":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.16.7.tgz#44416b6bd7624b998f5b1af5d470856c40138789"
@@ -1288,6 +1293,11 @@
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@types/source-list-map/-/source-list-map-0.1.2.tgz#0078836063ffaf17412349bba364087e0ac02ec9"
   integrity sha512-K5K+yml8LTo9bWJI/rECfIPrGgxdpeNbj+d53lwN4QjW1MCwlkhUms+gtdzigTeUyBr09+u8BwOIY3MXvHdcsA==
+
+"@types/webpack-env@^1.16.4":
+  version "1.16.4"
+  resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.16.4.tgz#1f4969042bf76d7ef7b5914f59b3b60073f4e1f4"
+  integrity sha512-llS8qveOUX3wxHnSykP5hlYFFuMfJ9p5JvIyCiBgp7WTfl6K5ZcyHj8r8JsN/J6QODkAsRRCLIcTuOCu8etkUw==
 
 "@types/webpack-sources@^0.1.5":
   version "0.1.9"
