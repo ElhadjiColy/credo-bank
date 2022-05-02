@@ -1,3 +1,3 @@
 .app {
-  text-align: center;
+  @apply bg-zinc-100 h-screen text-center font-sans;
 }
